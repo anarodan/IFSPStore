@@ -1843,11 +1843,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\anali\\OneDrive\\Documentos\\Programação Eventos\\IFSPStore-master\\IFSPStore-master\\IFSPStore.test\\IFSPStore.test.csproj",
+      "projectUniqueName": "C:\\Users\\anali\\OneDrive\\Documentos\\Programação Eventos\\IFSPStore\\IFSPStore-master\\IFSPStore.test\\IFSPStore.test.csproj",
       "projectName": "IFSPStore.test",
-      "projectPath": "C:\\Users\\anali\\OneDrive\\Documentos\\Programação Eventos\\IFSPStore-master\\IFSPStore-master\\IFSPStore.test\\IFSPStore.test.csproj",
+      "projectPath": "C:\\Users\\anali\\OneDrive\\Documentos\\Programação Eventos\\IFSPStore\\IFSPStore-master\\IFSPStore.test\\IFSPStore.test.csproj",
       "packagesPath": "C:\\Users\\anali\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\anali\\OneDrive\\Documentos\\Programação Eventos\\IFSPStore-master\\IFSPStore-master\\IFSPStore.test\\obj\\",
+      "outputPath": "C:\\Users\\anali\\OneDrive\\Documentos\\Programação Eventos\\IFSPStore\\IFSPStore-master\\IFSPStore.test\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\anali\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -1864,14 +1864,14 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\anali\\OneDrive\\Documentos\\Programação Eventos\\IFSPStore-master\\IFSPStore-master\\IFSPStore.Domain\\IFSPStore.Domain.csproj": {
-              "projectPath": "C:\\Users\\anali\\OneDrive\\Documentos\\Programação Eventos\\IFSPStore-master\\IFSPStore-master\\IFSPStore.Domain\\IFSPStore.Domain.csproj"
+            "C:\\Users\\anali\\OneDrive\\Documentos\\Programação Eventos\\IFSPStore\\IFSPStore-master\\IFSPStore.Domain\\IFSPStore.Domain.csproj": {
+              "projectPath": "C:\\Users\\anali\\OneDrive\\Documentos\\Programação Eventos\\IFSPStore\\IFSPStore-master\\IFSPStore.Domain\\IFSPStore.Domain.csproj"
             },
-            "C:\\Users\\anali\\OneDrive\\Documentos\\Programação Eventos\\IFSPStore-master\\IFSPStore-master\\IFSPStore.Service\\IFSPStore.Service.csproj": {
-              "projectPath": "C:\\Users\\anali\\OneDrive\\Documentos\\Programação Eventos\\IFSPStore-master\\IFSPStore-master\\IFSPStore.Service\\IFSPStore.Service.csproj"
+            "C:\\Users\\anali\\OneDrive\\Documentos\\Programação Eventos\\IFSPStore\\IFSPStore-master\\IFSPStore.Service\\IFSPStore.Service.csproj": {
+              "projectPath": "C:\\Users\\anali\\OneDrive\\Documentos\\Programação Eventos\\IFSPStore\\IFSPStore-master\\IFSPStore.Service\\IFSPStore.Service.csproj"
             },
-            "C:\\Users\\anali\\OneDrive\\Documentos\\Programação Eventos\\IFSPStore-master\\IFSPStore-master\\IFSPStory.Repository\\IFSPStore.Repository.csproj": {
-              "projectPath": "C:\\Users\\anali\\OneDrive\\Documentos\\Programação Eventos\\IFSPStore-master\\IFSPStore-master\\IFSPStory.Repository\\IFSPStore.Repository.csproj"
+            "C:\\Users\\anali\\OneDrive\\Documentos\\Programação Eventos\\IFSPStore\\IFSPStore-master\\IFSPStory.Repository\\IFSPStore.Repository.csproj": {
+              "projectPath": "C:\\Users\\anali\\OneDrive\\Documentos\\Programação Eventos\\IFSPStore\\IFSPStore-master\\IFSPStory.Repository\\IFSPStore.Repository.csproj"
             }
           }
         }

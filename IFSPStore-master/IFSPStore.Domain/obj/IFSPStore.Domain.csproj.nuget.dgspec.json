@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\anali\\OneDrive\\Documentos\\Programação Eventos\\IFSPStore-master\\IFSPStore-master\\IFSPStore.Domain\\IFSPStore.Domain.csproj": {}
+    "C:\\Users\\anali\\OneDrive\\Documentos\\Programação Eventos\\IFSPStore\\IFSPStore-master\\IFSPStore.Domain\\IFSPStore.Domain.csproj": {}
   },
   "projects": {
-    "C:\\Users\\anali\\OneDrive\\Documentos\\Programação Eventos\\IFSPStore-master\\IFSPStore-master\\IFSPStore.Domain\\IFSPStore.Domain.csproj": {
+    "C:\\Users\\anali\\OneDrive\\Documentos\\Programação Eventos\\IFSPStore\\IFSPStore-master\\IFSPStore.Domain\\IFSPStore.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\anali\\OneDrive\\Documentos\\Programação Eventos\\IFSPStore-master\\IFSPStore-master\\IFSPStore.Domain\\IFSPStore.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\anali\\OneDrive\\Documentos\\Programação Eventos\\IFSPStore\\IFSPStore-master\\IFSPStore.Domain\\IFSPStore.Domain.csproj",
         "projectName": "IFSPStore.Domain",
-        "projectPath": "C:\\Users\\anali\\OneDrive\\Documentos\\Programação Eventos\\IFSPStore-master\\IFSPStore-master\\IFSPStore.Domain\\IFSPStore.Domain.csproj",
+        "projectPath": "C:\\Users\\anali\\OneDrive\\Documentos\\Programação Eventos\\IFSPStore\\IFSPStore-master\\IFSPStore.Domain\\IFSPStore.Domain.csproj",
         "packagesPath": "C:\\Users\\anali\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\anali\\OneDrive\\Documentos\\Programação Eventos\\IFSPStore-master\\IFSPStore-master\\IFSPStore.Domain\\obj\\",
+        "outputPath": "C:\\Users\\anali\\OneDrive\\Documentos\\Programação Eventos\\IFSPStore\\IFSPStore-master\\IFSPStore.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\anali\\AppData\\Roaming\\NuGet\\NuGet.Config",

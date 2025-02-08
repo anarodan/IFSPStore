@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "9ZlbKQwptyk=",
+  "dgSpecHash": "Guc3DSasnJ0=",
   "success": true,
-  "projectFilePath": "C:\\Users\\anali\\OneDrive\\Documentos\\Programação Eventos\\IFSPStore-master\\IFSPStore-master\\IFSPStore.Domain\\IFSPStore.Domain.csproj",
+  "projectFilePath": "C:\\Users\\anali\\OneDrive\\Documentos\\Programação Eventos\\IFSPStore\\IFSPStore-master\\IFSPStore.Domain\\IFSPStore.Domain.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\anali\\.nuget\\packages\\fluentvalidation\\11.10.0\\fluentvalidation.11.10.0.nupkg.sha512"
   ],

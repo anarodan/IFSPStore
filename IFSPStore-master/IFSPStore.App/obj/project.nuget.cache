@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "UDICwHAsag8=",
+  "dgSpecHash": "iDCozxjHQGQ=",
   "success": true,
-  "projectFilePath": "C:\\Users\\anali\\OneDrive\\Documentos\\Programação Eventos\\IFSPStore-master\\IFSPStore-master\\IFSPStore.App\\IFSPStore.App.csproj",
+  "projectFilePath": "C:\\Users\\anali\\OneDrive\\Documentos\\Programação Eventos\\IFSPStore\\IFSPStore-master\\IFSPStore.App\\IFSPStore.App.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\anali\\.nuget\\packages\\automapper\\13.0.1\\automapper.13.0.1.nupkg.sha512",
     "C:\\Users\\anali\\.nuget\\packages\\fluentvalidation\\11.10.0\\fluentvalidation.11.10.0.nupkg.sha512",

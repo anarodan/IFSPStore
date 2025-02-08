@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("IFSPStore.App")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c288b197ce2e09214c239a0fe7c10c9647afdfe2")]
 [assembly: System.Reflection.AssemblyProductAttribute("IFSPStore.App")]
 [assembly: System.Reflection.AssemblyTitleAttribute("IFSPStore.App")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

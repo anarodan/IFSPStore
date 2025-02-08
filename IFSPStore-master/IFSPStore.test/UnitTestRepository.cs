@@ -91,10 +91,10 @@ namespace IFSPStore.test
 
                 var usuario = new Usuario
                 {
-                    Nome = "Bruna",
-                    Senha = "Be2505",
-                    Login = "barreto",
-                    Email = "brunasantosut@gmail.com",
+                    Nome = "Analice",
+                    Senha = "Ana123",
+                    Login = "anarodan",
+                    Email = "anarodan@gmail.com",
                     DataCadastro = DateTime.Now,
                     DataLogin = DateTime.Now,
                     Ativo = true
@@ -158,11 +158,11 @@ namespace IFSPStore.test
                 var cidade = context.Cidades.FirstOrDefault(c => c.Id == 1);
                 var cliente = new Cliente
                 {
-                    Nome = "Bruna Barreto",
+                    Nome = "Analice Rodrigues",
                     Cidade = cidade,
-                    Documento = "63.145.262-X",
-                    Endereco = "Rua Wilson Troncoso, 570",
-                    Bairro = "Toselar"
+                    Documento = "501.501.501-90",
+                    Endereco = "Rua Jose Meloni, 539",
+                    Bairro = "Parque das Nações"
                 };
                 context.Clientes.Add(cliente);
 

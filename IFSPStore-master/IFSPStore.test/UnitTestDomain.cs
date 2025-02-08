@@ -25,15 +25,14 @@ namespace IFSPStore.test
             DateTime dataCadastro = new DateTime(2024, 10, 20);
             DateTime dataLogin = new DateTime(2024, 10, 22);
 
-            Usuario usuario = new Usuario(1, "Bruna", "be2505", "brunabarreto", "brunasantos@gmail.com", dataCadastro, dataLogin, true );
+            Usuario usuario = new Usuario(1, "Analice", "ana123", "anarodan", "anarodan@gmail.com", dataCadastro, dataLogin, true );
 
             Debug.WriteLine(JsonSerializer.Serialize(usuario));
 
-            Assert.AreEqual(usuario.Nome, "Bruna");
-            Assert.AreEqual(usuario.Senha, "be2505");
-            Assert.AreEqual(usuario.Login, "brunabarreto");
-            Assert.AreEqual(usuario.Email, "brunasantos@gmail.com");
-            Assert.AreEqual(usuario.DataCadastro, dataCadastro);
+            Assert.AreEqual(usuario.Nome, "Analice");
+            Assert.AreEqual(usuario.Senha, "ana123");
+            Assert.AreEqual(usuario.Login, "anarodan");
+            Assert.AreEqual(usuario.Email, "anarodanadastro);
             Assert.AreEqual(usuario.DataLogin, dataLogin);
             Assert.IsTrue(usuario.Ativo);
 
@@ -74,14 +73,14 @@ namespace IFSPStore.test
         {
             Cidade cidade = new Cidade(1, "Birigui", "SP");
 
-            Cliente cliente = new Cliente(1, "Bruna", "Rua Wilson Troncoso,570", "Toselar", "63145262X", cidade);
+            Cliente cliente = new Cliente(1, "Analice", "Rua Jose Meloni, 539", "Parque das Nações", "50150150190", cidade);
 
             Debug.WriteLine(JsonSerializer.Serialize(cliente));
 
-            Assert.AreEqual(cliente.Nome, "Bruna");
-            Assert.AreEqual(cliente.Endereco, "Rua Wilson Troncoso,570");
-            Assert.AreEqual(cliente.Bairro, "Toselar");
-            Assert.AreEqual(cliente.Documento, "63145262X");
+            Assert.AreEqual(cliente.Nome, "Analice");
+            Assert.AreEqual(cliente.Endereco, "Rua Jose Meloni, 539");
+            Assert.AreEqual(cliente.Bairro, "Parque das Nações");
+            Assert.AreEqual(cliente.Documento, "50150150190");
         }
 
         [TestMethod]
@@ -90,7 +89,7 @@ namespace IFSPStore.test
             // Arrange
             DateTime data = DateTime.Now;
             float valorTotal = 200.0f;
-            Usuario usuario = new Usuario(1, "Bruna", "be2505", "brunabarreto", "brunasantosut@gmail.com", DateTime.Now, DateTime.Now, true);
+            Usuario usuario = new Usuario(1, "Analice", "ana123", "anarodan", "anarodan@gmail.com", DateTime.Now, DateTime.Now, true);
             Cliente cliente = new Cliente(1, "Carlos", "Rua A, 123", "Centro", "12345678901", new Cidade(1, "Birigui", "SP"));
 
             List<VendaItem> items = new List<VendaItem>

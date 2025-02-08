@@ -109,10 +109,10 @@ namespace IFSPStore.test
             var clienteService = sp.GetService<IBaseService<Cliente>>();
             var cliente = new Cliente()
             {
-                Nome = "Bruna",
-                Endereco = "Rua Wilson Troncoso",
-                Bairro = "Residencial Alvorada",
-                Documento = "49254853880",
+                Nome = "Analice",
+                Endereco = "Rua Jose Meloni, 539",
+                Bairro = "Parque das Nações",
+                Documento = "50150150190",
                 Cidade = cidade
             };
 
@@ -163,10 +163,10 @@ namespace IFSPStore.test
             var usuarioService = sp.GetService<IBaseService<Usuario>>();
             var usuario = new Usuario
             {
-                Nome = "Bruna Barreto",
-                Login = "bsb",
-                Email = "bruna@gmail.com",
-                Senha = "Be250500!",
+                Nome = "Analice Rodrigues",
+                Login = "anarodan",
+                Email = "anarodan@gmail.com",
+                Senha = "Ana123!",
                 DataCadastro = DateTime.Now,
                 DataLogin = DateTime.Now
             };
