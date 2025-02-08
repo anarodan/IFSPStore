@@ -1,0 +1,103 @@
+C:\Users\bruna\Downloads\POEE\IFSPStore\IFSPStore.App\bin\Debug\net8.0-windows\IFSPStore.App.exe
+C:\Users\bruna\Downloads\POEE\IFSPStore\IFSPStore.App\bin\Debug\net8.0-windows\Config\ConfigBanco.txt
+C:\Users\bruna\Downloads\POEE\IFSPStore\IFSPStore.App\bin\Debug\net8.0-windows\IFSPStore.App.deps.json
+C:\Users\bruna\Downloads\POEE\IFSPStore\IFSPStore.App\bin\Debug\net8.0-windows\IFSPStore.App.runtimeconfig.json
+C:\Users\bruna\Downloads\POEE\IFSPStore\IFSPStore.App\bin\Debug\net8.0-windows\IFSPStore.App.dll
+C:\Users\bruna\Downloads\POEE\IFSPStore\IFSPStore.App\bin\Debug\net8.0-windows\IFSPStore.App.pdb
+C:\Users\bruna\Downloads\POEE\IFSPStore\IFSPStore.App\bin\Debug\net8.0-windows\AutoMapper.dll
+C:\Users\bruna\Downloads\POEE\IFSPStore\IFSPStore.App\bin\Debug\net8.0-windows\FluentValidation.dll
+C:\Users\bruna\Downloads\POEE\IFSPStore\IFSPStore.App\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\bruna\Downloads\POEE\IFSPStore\IFSPStore.App\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\bruna\Downloads\POEE\IFSPStore\IFSPStore.App\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\bruna\Downloads\POEE\IFSPStore\IFSPStore.App\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\bruna\Downloads\POEE\IFSPStore\IFSPStore.App\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\bruna\Downloads\POEE\IFSPStore\IFSPStore.App\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\bruna\Downloads\POEE\IFSPStore\IFSPStore.App\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\bruna\Downloads\POEE\IFSPStore\IFSPStore.App\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\bruna\Downloads\POEE\IFSPStore\IFSPStore.App\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\bruna\Downloads\POEE\IFSPStore\IFSPStore.App\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\bruna\Downloads\POEE\IFSPStore\IFSPStore.App\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\bruna\Downloads\POEE\IFSPStore\IFSPStore.App\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\bruna\Downloads\POEE\IFSPStore\IFSPStore.App\bin\Debug\net8.0-windows\MySqlConnector.dll
+C:\Users\bruna\Downloads\POEE\IFSPStore\IFSPStore.App\bin\Debug\net8.0-windows\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\bruna\Downloads\POEE\IFSPStore\IFSPStore.App\bin\Debug\net8.0-windows\ReaLTaiizor.dll
+C:\Users\bruna\Downloads\POEE\IFSPStore\IFSPStore.App\bin\Debug\net8.0-windows\IFSPStore.Domain.dll
+C:\Users\bruna\Downloads\POEE\IFSPStore\IFSPStore.App\bin\Debug\net8.0-windows\IFSPStore.Repository.dll
+C:\Users\bruna\Downloads\POEE\IFSPStore\IFSPStore.App\bin\Debug\net8.0-windows\IFSPStore.Service.dll
+C:\Users\bruna\Downloads\POEE\IFSPStore\IFSPStore.App\bin\Debug\net8.0-windows\IFSPStore.Domain.pdb
+C:\Users\bruna\Downloads\POEE\IFSPStore\IFSPStore.App\bin\Debug\net8.0-windows\IFSPStore.Service.pdb
+C:\Users\bruna\Downloads\POEE\IFSPStore\IFSPStore.App\bin\Debug\net8.0-windows\IFSPStore.Repository.pdb
+C:\Users\bruna\Downloads\POEE\IFSPStore\IFSPStore.App\obj\Debug\net8.0-windows\IFSPStore.App.csproj.AssemblyReference.cache
+C:\Users\bruna\Downloads\POEE\IFSPStore\IFSPStore.App\obj\Debug\net8.0-windows\IFSPStore.App.Base.CadastroBase.resources
+C:\Users\bruna\Downloads\POEE\IFSPStore\IFSPStore.App\obj\Debug\net8.0-windows\IFSPStore.App.Cadastros.CadastroCidade.resources
+C:\Users\bruna\Downloads\POEE\IFSPStore\IFSPStore.App\obj\Debug\net8.0-windows\IFSPStore.App.Cadastros.CadastroCliente.resources
+C:\Users\bruna\Downloads\POEE\IFSPStore\IFSPStore.App\obj\Debug\net8.0-windows\IFSPStore.App.Cadastros.CadastroGrupo.resources
+C:\Users\bruna\Downloads\POEE\IFSPStore\IFSPStore.App\obj\Debug\net8.0-windows\IFSPStore.App.Cadastros.CadastroProduto.resources
+C:\Users\bruna\Downloads\POEE\IFSPStore\IFSPStore.App\obj\Debug\net8.0-windows\IFSPStore.App.Cadastros.CadastroUsuario.resources
+C:\Users\bruna\Downloads\POEE\IFSPStore\IFSPStore.App\obj\Debug\net8.0-windows\IFSPStore.App.Cadastros.CadastroVenda.resources
+C:\Users\bruna\Downloads\POEE\IFSPStore\IFSPStore.App\obj\Debug\net8.0-windows\IFSPStore.App.FormPrincipal.resources
+C:\Users\bruna\Downloads\POEE\IFSPStore\IFSPStore.App\obj\Debug\net8.0-windows\IFSPStore.App.Properties.Resources.resources
+C:\Users\bruna\Downloads\POEE\IFSPStore\IFSPStore.App\obj\Debug\net8.0-windows\IFSPStore.App.csproj.GenerateResource.cache
+C:\Users\bruna\Downloads\POEE\IFSPStore\IFSPStore.App\obj\Debug\net8.0-windows\IFSPStore.App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bruna\Downloads\POEE\IFSPStore\IFSPStore.App\obj\Debug\net8.0-windows\IFSPStore.App.AssemblyInfoInputs.cache
+C:\Users\bruna\Downloads\POEE\IFSPStore\IFSPStore.App\obj\Debug\net8.0-windows\IFSPStore.App.AssemblyInfo.cs
+C:\Users\bruna\Downloads\POEE\IFSPStore\IFSPStore.App\obj\Debug\net8.0-windows\IFSPStore.App.csproj.CoreCompileInputs.cache
+C:\Users\bruna\Downloads\POEE\IFSPStore\IFSPStore.App\obj\Debug\net8.0-windows\IFSPStor.A7E18ABF.Up2Date
+C:\Users\bruna\Downloads\POEE\IFSPStore\IFSPStore.App\obj\Debug\net8.0-windows\IFSPStore.App.dll
+C:\Users\bruna\Downloads\POEE\IFSPStore\IFSPStore.App\obj\Debug\net8.0-windows\refint\IFSPStore.App.dll
+C:\Users\bruna\Downloads\POEE\IFSPStore\IFSPStore.App\obj\Debug\net8.0-windows\IFSPStore.App.pdb
+C:\Users\bruna\Downloads\POEE\IFSPStore\IFSPStore.App\obj\Debug\net8.0-windows\IFSPStore.App.genruntimeconfig.cache
+C:\Users\bruna\Downloads\POEE\IFSPStore\IFSPStore.App\obj\Debug\net8.0-windows\ref\IFSPStore.App.dll
+C:\Users\bruna\Downloads\POEE\IFSPStore\IFSPStore.App\obj\Debug\net8.0-windows\IFSPStore.App.sourcelink.json
+C:\Users\bruna\Downloads\POEE\IFSPStore\IFSPStore.App\obj\Debug\net8.0-windows\IFSPStore.App.Outros.Login.resources
+C:\Users\anali\OneDrive\Documentos\Programação Eventos\IFSPStore-master\IFSPStore-master\IFSPStore.App\obj\Debug\net8.0-windows\IFSPStore.App.csproj.AssemblyReference.cache
+C:\Users\anali\OneDrive\Documentos\Programação Eventos\IFSPStore-master\IFSPStore-master\IFSPStore.App\obj\Debug\net8.0-windows\IFSPStore.App.dll
+C:\Users\anali\OneDrive\Documentos\Programação Eventos\IFSPStore-master\IFSPStore-master\IFSPStore.App\obj\Debug\net8.0-windows\refint\IFSPStore.App.dll
+C:\Users\anali\OneDrive\Documentos\Programação Eventos\IFSPStore-master\IFSPStore-master\IFSPStore.App\obj\Debug\net8.0-windows\IFSPStore.App.pdb
+C:\Users\anali\OneDrive\Documentos\Programação Eventos\IFSPStore-master\IFSPStore-master\IFSPStore.App\obj\Debug\net8.0-windows\IFSPStore.App.Base.CadastroBase.resources
+C:\Users\anali\OneDrive\Documentos\Programação Eventos\IFSPStore-master\IFSPStore-master\IFSPStore.App\obj\Debug\net8.0-windows\IFSPStore.App.Cadastros.CadastroCidade.resources
+C:\Users\anali\OneDrive\Documentos\Programação Eventos\IFSPStore-master\IFSPStore-master\IFSPStore.App\obj\Debug\net8.0-windows\IFSPStore.App.Cadastros.CadastroCliente.resources
+C:\Users\anali\OneDrive\Documentos\Programação Eventos\IFSPStore-master\IFSPStore-master\IFSPStore.App\obj\Debug\net8.0-windows\IFSPStore.App.Cadastros.CadastroGrupo.resources
+C:\Users\anali\OneDrive\Documentos\Programação Eventos\IFSPStore-master\IFSPStore-master\IFSPStore.App\obj\Debug\net8.0-windows\IFSPStore.App.Cadastros.CadastroProduto.resources
+C:\Users\anali\OneDrive\Documentos\Programação Eventos\IFSPStore-master\IFSPStore-master\IFSPStore.App\obj\Debug\net8.0-windows\IFSPStore.App.Cadastros.CadastroUsuario.resources
+C:\Users\anali\OneDrive\Documentos\Programação Eventos\IFSPStore-master\IFSPStore-master\IFSPStore.App\obj\Debug\net8.0-windows\IFSPStore.App.Cadastros.CadastroVenda.resources
+C:\Users\anali\OneDrive\Documentos\Programação Eventos\IFSPStore-master\IFSPStore-master\IFSPStore.App\obj\Debug\net8.0-windows\IFSPStore.App.FormPrincipal.resources
+C:\Users\anali\OneDrive\Documentos\Programação Eventos\IFSPStore-master\IFSPStore-master\IFSPStore.App\obj\Debug\net8.0-windows\IFSPStore.App.Outros.Login.resources
+C:\Users\anali\OneDrive\Documentos\Programação Eventos\IFSPStore-master\IFSPStore-master\IFSPStore.App\obj\Debug\net8.0-windows\IFSPStore.App.Properties.Resources.resources
+C:\Users\anali\OneDrive\Documentos\Programação Eventos\IFSPStore-master\IFSPStore-master\IFSPStore.App\obj\Debug\net8.0-windows\IFSPStore.App.csproj.GenerateResource.cache
+C:\Users\anali\OneDrive\Documentos\Programação Eventos\IFSPStore-master\IFSPStore-master\IFSPStore.App\obj\Debug\net8.0-windows\IFSPStore.App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anali\OneDrive\Documentos\Programação Eventos\IFSPStore-master\IFSPStore-master\IFSPStore.App\obj\Debug\net8.0-windows\IFSPStore.App.AssemblyInfoInputs.cache
+C:\Users\anali\OneDrive\Documentos\Programação Eventos\IFSPStore-master\IFSPStore-master\IFSPStore.App\obj\Debug\net8.0-windows\IFSPStore.App.AssemblyInfo.cs
+C:\Users\anali\OneDrive\Documentos\Programação Eventos\IFSPStore-master\IFSPStore-master\IFSPStore.App\obj\Debug\net8.0-windows\IFSPStore.App.csproj.CoreCompileInputs.cache
+C:\Users\anali\OneDrive\Documentos\Programação Eventos\IFSPStore-master\IFSPStore-master\IFSPStore.App\bin\Debug\net8.0-windows\IFSPStore.App.exe
+C:\Users\anali\OneDrive\Documentos\Programação Eventos\IFSPStore-master\IFSPStore-master\IFSPStore.App\bin\Debug\net8.0-windows\Config\ConfigBanco.txt
+C:\Users\anali\OneDrive\Documentos\Programação Eventos\IFSPStore-master\IFSPStore-master\IFSPStore.App\bin\Debug\net8.0-windows\IFSPStore.App.deps.json
+C:\Users\anali\OneDrive\Documentos\Programação Eventos\IFSPStore-master\IFSPStore-master\IFSPStore.App\bin\Debug\net8.0-windows\IFSPStore.App.runtimeconfig.json
+C:\Users\anali\OneDrive\Documentos\Programação Eventos\IFSPStore-master\IFSPStore-master\IFSPStore.App\bin\Debug\net8.0-windows\IFSPStore.App.dll
+C:\Users\anali\OneDrive\Documentos\Programação Eventos\IFSPStore-master\IFSPStore-master\IFSPStore.App\bin\Debug\net8.0-windows\IFSPStore.App.pdb
+C:\Users\anali\OneDrive\Documentos\Programação Eventos\IFSPStore-master\IFSPStore-master\IFSPStore.App\bin\Debug\net8.0-windows\AutoMapper.dll
+C:\Users\anali\OneDrive\Documentos\Programação Eventos\IFSPStore-master\IFSPStore-master\IFSPStore.App\bin\Debug\net8.0-windows\FluentValidation.dll
+C:\Users\anali\OneDrive\Documentos\Programação Eventos\IFSPStore-master\IFSPStore-master\IFSPStore.App\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\anali\OneDrive\Documentos\Programação Eventos\IFSPStore-master\IFSPStore-master\IFSPStore.App\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\anali\OneDrive\Documentos\Programação Eventos\IFSPStore-master\IFSPStore-master\IFSPStore.App\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\anali\OneDrive\Documentos\Programação Eventos\IFSPStore-master\IFSPStore-master\IFSPStore.App\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\anali\OneDrive\Documentos\Programação Eventos\IFSPStore-master\IFSPStore-master\IFSPStore.App\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\anali\OneDrive\Documentos\Programação Eventos\IFSPStore-master\IFSPStore-master\IFSPStore.App\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\anali\OneDrive\Documentos\Programação Eventos\IFSPStore-master\IFSPStore-master\IFSPStore.App\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\anali\OneDrive\Documentos\Programação Eventos\IFSPStore-master\IFSPStore-master\IFSPStore.App\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\anali\OneDrive\Documentos\Programação Eventos\IFSPStore-master\IFSPStore-master\IFSPStore.App\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\anali\OneDrive\Documentos\Programação Eventos\IFSPStore-master\IFSPStore-master\IFSPStore.App\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\anali\OneDrive\Documentos\Programação Eventos\IFSPStore-master\IFSPStore-master\IFSPStore.App\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\anali\OneDrive\Documentos\Programação Eventos\IFSPStore-master\IFSPStore-master\IFSPStore.App\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\anali\OneDrive\Documentos\Programação Eventos\IFSPStore-master\IFSPStore-master\IFSPStore.App\bin\Debug\net8.0-windows\MySqlConnector.dll
+C:\Users\anali\OneDrive\Documentos\Programação Eventos\IFSPStore-master\IFSPStore-master\IFSPStore.App\bin\Debug\net8.0-windows\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\anali\OneDrive\Documentos\Programação Eventos\IFSPStore-master\IFSPStore-master\IFSPStore.App\bin\Debug\net8.0-windows\ReaLTaiizor.dll
+C:\Users\anali\OneDrive\Documentos\Programação Eventos\IFSPStore-master\IFSPStore-master\IFSPStore.App\bin\Debug\net8.0-windows\IFSPStore.Domain.dll
+C:\Users\anali\OneDrive\Documentos\Programação Eventos\IFSPStore-master\IFSPStore-master\IFSPStore.App\bin\Debug\net8.0-windows\IFSPStore.Repository.dll
+C:\Users\anali\OneDrive\Documentos\Programação Eventos\IFSPStore-master\IFSPStore-master\IFSPStore.App\bin\Debug\net8.0-windows\IFSPStore.Service.dll
+C:\Users\anali\OneDrive\Documentos\Programação Eventos\IFSPStore-master\IFSPStore-master\IFSPStore.App\bin\Debug\net8.0-windows\IFSPStore.Domain.pdb
+C:\Users\anali\OneDrive\Documentos\Programação Eventos\IFSPStore-master\IFSPStore-master\IFSPStore.App\bin\Debug\net8.0-windows\IFSPStore.Service.pdb
+C:\Users\anali\OneDrive\Documentos\Programação Eventos\IFSPStore-master\IFSPStore-master\IFSPStore.App\bin\Debug\net8.0-windows\IFSPStore.Repository.pdb
+C:\Users\anali\OneDrive\Documentos\Programação Eventos\IFSPStore-master\IFSPStore-master\IFSPStore.App\obj\Debug\net8.0-windows\IFSPStor.A7E18ABF.Up2Date
+C:\Users\anali\OneDrive\Documentos\Programação Eventos\IFSPStore-master\IFSPStore-master\IFSPStore.App\obj\Debug\net8.0-windows\IFSPStore.App.genruntimeconfig.cache
+C:\Users\anali\OneDrive\Documentos\Programação Eventos\IFSPStore-master\IFSPStore-master\IFSPStore.App\obj\Debug\net8.0-windows\ref\IFSPStore.App.dll

@@ -1,0 +1,231 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\anali\\OneDrive\\Documentos\\Programação Eventos\\IFSPStore-master\\IFSPStore-master\\IFSPStore.Service\\IFSPStore.Service.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\anali\\OneDrive\\Documentos\\Programação Eventos\\IFSPStore-master\\IFSPStore-master\\IFSPStore.Domain\\IFSPStore.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\anali\\OneDrive\\Documentos\\Programação Eventos\\IFSPStore-master\\IFSPStore-master\\IFSPStore.Domain\\IFSPStore.Domain.csproj",
+        "projectName": "IFSPStore.Domain",
+        "projectPath": "C:\\Users\\anali\\OneDrive\\Documentos\\Programação Eventos\\IFSPStore-master\\IFSPStore-master\\IFSPStore.Domain\\IFSPStore.Domain.csproj",
+        "packagesPath": "C:\\Users\\anali\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\anali\\OneDrive\\Documentos\\Programação Eventos\\IFSPStore-master\\IFSPStore-master\\IFSPStore.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\anali\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "FluentValidation": {
+              "target": "Package",
+              "version": "[11.10.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.401/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\anali\\OneDrive\\Documentos\\Programação Eventos\\IFSPStore-master\\IFSPStore-master\\IFSPStore.Service\\IFSPStore.Service.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\anali\\OneDrive\\Documentos\\Programação Eventos\\IFSPStore-master\\IFSPStore-master\\IFSPStore.Service\\IFSPStore.Service.csproj",
+        "projectName": "IFSPStore.Service",
+        "projectPath": "C:\\Users\\anali\\OneDrive\\Documentos\\Programação Eventos\\IFSPStore-master\\IFSPStore-master\\IFSPStore.Service\\IFSPStore.Service.csproj",
+        "packagesPath": "C:\\Users\\anali\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\anali\\OneDrive\\Documentos\\Programação Eventos\\IFSPStore-master\\IFSPStore-master\\IFSPStore.Service\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\anali\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\anali\\OneDrive\\Documentos\\Programação Eventos\\IFSPStore-master\\IFSPStore-master\\IFSPStore.Domain\\IFSPStore.Domain.csproj": {
+                "projectPath": "C:\\Users\\anali\\OneDrive\\Documentos\\Programação Eventos\\IFSPStore-master\\IFSPStore-master\\IFSPStore.Domain\\IFSPStore.Domain.csproj"
+              },
+              "C:\\Users\\anali\\OneDrive\\Documentos\\Programação Eventos\\IFSPStore-master\\IFSPStore-master\\IFSPStory.Repository\\IFSPStore.Repository.csproj": {
+                "projectPath": "C:\\Users\\anali\\OneDrive\\Documentos\\Programação Eventos\\IFSPStore-master\\IFSPStore-master\\IFSPStory.Repository\\IFSPStore.Repository.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            },
+            "FluentValidation": {
+              "target": "Package",
+              "version": "[11.10.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.401/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\anali\\OneDrive\\Documentos\\Programação Eventos\\IFSPStore-master\\IFSPStore-master\\IFSPStory.Repository\\IFSPStore.Repository.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\anali\\OneDrive\\Documentos\\Programação Eventos\\IFSPStore-master\\IFSPStore-master\\IFSPStory.Repository\\IFSPStore.Repository.csproj",
+        "projectName": "IFSPStore.Repository",
+        "projectPath": "C:\\Users\\anali\\OneDrive\\Documentos\\Programação Eventos\\IFSPStore-master\\IFSPStore-master\\IFSPStory.Repository\\IFSPStore.Repository.csproj",
+        "packagesPath": "C:\\Users\\anali\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\anali\\OneDrive\\Documentos\\Programação Eventos\\IFSPStore-master\\IFSPStore-master\\IFSPStory.Repository\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\anali\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\anali\\OneDrive\\Documentos\\Programação Eventos\\IFSPStore-master\\IFSPStore-master\\IFSPStore.Domain\\IFSPStore.Domain.csproj": {
+                "projectPath": "C:\\Users\\anali\\OneDrive\\Documentos\\Programação Eventos\\IFSPStore-master\\IFSPStore-master\\IFSPStore.Domain\\IFSPStore.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.10, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.10, )"
+            },
+            "Pomelo.EntityFrameworkCore.MySql": {
+              "target": "Package",
+              "version": "[8.0.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.401/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
